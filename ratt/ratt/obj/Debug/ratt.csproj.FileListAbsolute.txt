@@ -1,0 +1,6 @@
+C:\Users\BOUCHRA\Documents\Visual Studio 2015\Projects\ratt\ratt\bin\Debug\ratt.exe.config
+C:\Users\BOUCHRA\Documents\Visual Studio 2015\Projects\ratt\ratt\bin\Debug\ratt.exe
+C:\Users\BOUCHRA\Documents\Visual Studio 2015\Projects\ratt\ratt\bin\Debug\ratt.pdb
+C:\Users\BOUCHRA\Documents\Visual Studio 2015\Projects\ratt\ratt\obj\Debug\ratt.csprojResolveAssemblyReference.cache
+C:\Users\BOUCHRA\Documents\Visual Studio 2015\Projects\ratt\ratt\obj\Debug\ratt.exe
+C:\Users\BOUCHRA\Documents\Visual Studio 2015\Projects\ratt\ratt\obj\Debug\ratt.pdb
